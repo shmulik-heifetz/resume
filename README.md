@@ -9,11 +9,11 @@
 
 ## **About**
 
-- Experienced Firmware Engineer and Architect, with over 12 years of expertise in embedded security engines, 
- designing and writing secure modular and efficient code solutions.
-- Specializing in secure ROM development and best practices, bootstrapping secure embedded engines, experience with pre and post silicon vehicles
-- Expertise in writing E2E automation solution for firmware development and testing flows
-- Technical lead of firmware development methodologies, strategic and system wide mode of work
+- Experienced Firmware Engineer and Architect with over 12 years of expertise in embedded security engines,
+ dedicated to designing and developing secure, modular, and efficient code solutions.
+- Specializing in secure ROM development, best practices for bootstrapping secure embedded engines, and validation across pre- and post-silicon platforms.
+- Expertise in architecting and implementing E2E automation solutions for comprehensive firmware development and testing flows.
+- Strategic technical lead defining system-wide firmware development methodologies and driving robust, high-quality outcomes.
 
 ## **Languages & Technologies**
 
@@ -34,35 +34,35 @@
 
 ### **Firmware Architect** _(2022 – 2024)_
 
-- **Architecture of bootstrap flow functionality, security, and efficiency**
-- **System-wide strategic technical leadership**, including:
+- **Architected** parts of bootstrap flow, optimizing for functionality, security, and efficiency.
+- **Provided system-wide strategic technical leadership**, defining and implementing:
   - Branching strategies
-  - Code structure and modularity design
-  - Coding rules
-  - CI/CD pipelines
-  - Release management
-- **Technical and architectural documentation**
+  - Code structure and modularity designs
+  - Coding standards and best practices
+  - CI/CD pipeline architecture and improvements
+  - Release management processes
+- **Authored and maintained comprehensive technical and architectural documentation.**
 
 ### **Senior Firmware Engineer** _(2019 – 2022)_
 
-- **Developed secure firmware for ROM**
-- **Security champion** – Writing and reviewing code from a **security perspective**
-- **Developed embedded drivers** (e.g., **SPI**, **UFS**)
-- **Designed and developed an E2E automation solution** for validation:
-  - Parsing test requirements into actionable items
-  - Inserting test code, building, burning, running, and analyzing results
+- **Developed and enhanced secure firmware for ROM.**
+- **Served as Security Champion**, leading security-focused code reviews, threat modeling, and secure development practices.
+- **Engineered embedded drivers** for peripherals including **SPI** and **UFS**.
+- **Designed, developed, and implemented an E2E automation solution** for firmware validation, which included:
+  - Parsing test requirements into actionable validation items.
+  - Automating test code insertion, firmware building, deployment, execution, and results analysis.
 
 ### **Firmware Engineer** _(2013 – 2019)_
 
-- **Developed firmware in C** for embedded security engines (**Kernel** & **ROM**)
-- **Firmware debugging** on **pre- & post-silicon** platforms (Simulations, **FPGAs**, Silicon)
-- **Developed an infrastructure for unit tests (BAT)**, including:
-  - FW testing infrastructure
-  - Tools & UI for CI integration
+- **Developed firmware in C** for embedded security engines, encompassing both **Kernel** and **ROM** components.
+- **Performed extensive firmware debugging** on **pre- and post-silicon** platforms (Simulations, **FPGAs**, Silicon).
+- **Engineered a comprehensive unit testing infrastructure (BAT)**, featuring:
+  - A robust firmware testing framework.
+  - Custom tools and a user interface for seamless CI integration.
 
 ### **Firmware Developer - Student Position** _(2012 – 2013)_
 
-- **Developing Embedded OS Kernel**
+- **Contributed to the development of an Embedded OS Kernel.**
 
 ---
 
