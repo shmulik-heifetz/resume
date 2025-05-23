@@ -9,11 +9,9 @@
 
 ## **About**
 
-- Experienced Firmware Engineer and Architect, with over 12 years of expertise in embedded security engines,
-  designing and writing secure modular and efficient code solutions.
-- Specializing in secure ROM development and best practices, bootstrapping secure embedded engines, experience with pre and post silicon vehicles
-- Expertise in writing E2E automation solution for firmware development and testing flows
-- Technical lead of firmware development methodologies, strategic and system wide mode of work
+Experienced Firmware Engineer and Architect of embedded security engines,
+designing and writing secure modular and efficient code solutions.<br/>
+Specializing in secure **ROM** development and best practices, bootstrapping secure embedded engines, using pre and post silicon vehicles
 
 ## **Languages & Technologies**
 
