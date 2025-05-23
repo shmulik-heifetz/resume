@@ -16,34 +16,27 @@ Specializing in secure **ROM** development and best practices, bootstrapping sec
 ### **Firmware Architect** _(2022 – 2024)_
 
 - **Architected** parts of bootstrap flow, optimizing for functionality, security, and efficiency.
-- **Provided system-wide strategic technical leadership**, defining and implementing:
-  - Branching strategies
-  - Code structure and modularity designs
-  - Coding standards and best practices
-  - CI/CD pipeline architecture and improvements
-  - Release management processes
-- **Authored and maintained comprehensive technical and architectural documentation.**
+- System-wide strategic **technical leadership**, defining and implementing:
+  - Code structure, modular designs, coding standards and best practices
+  - Branching strategies, CI/CD pipeline architecture, and Release management processes
+- Authored and maintained comprehensive **technical** and **architectural documentation**.
 
 ### **Senior Firmware Engineer** _(2019 – 2022)_
 
-- **Developed and enhanced secure firmware for ROM.**
-- **Served as Security Champion**, leading security-focused code reviews, threat modeling, and secure development practices.
-- **Engineered embedded drivers** for peripherals including **SPI** and **UFS**.
-- **Designed, developed, and implemented an E2E automation solution** for firmware validation, which included:
-  - Parsing test requirements into actionable validation items.
-  - Automating test code insertion, firmware building, deployment, execution, and results analysis.
+- Developing and enhancing **secure firmware** for **ROM**.
+- Served as **Security Champion**, leading security-focused code reviews, threat modeling, and secure development practices.
+- Developed **embedded drivers** for peripherals including **SPI** and **UFS**.
+- Designed, developed, and implemented an **E2E automation solution** for firmware validation team.
 
 ### **Firmware Engineer** _(2013 – 2019)_
 
 - **Developed firmware in C** for embedded security engines, encompassing both **Kernel** and **ROM** components.
-- **Performed extensive firmware debugging** on **pre- and post-silicon** platforms (Simulations, **FPGAs**, Silicon).
-- **Engineered a comprehensive unit testing infrastructure (BAT)**, featuring:
-  - A robust firmware testing framework.
-  - Custom tools and a user interface for seamless CI integration.
+- Performed extensive **firmware debugging** on **pre-silicon** and **post-silicon** platforms (Simulations, **FPGAs**, Silicon).
+- Engineered and implemented a comprehensive **unit testing infrastructure (BAT)**, used by the firmware development teams.
 
 ### **Firmware Developer - Student Position** _(2012 – 2013)_
 
-- **Contributed to the development of an Embedded OS Kernel.**
+- Contributed to the development of an **Embedded OS Kernel.**
 
 ## **Languages & Technologies**
 
