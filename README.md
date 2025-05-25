@@ -13,7 +13,7 @@ Specializing in secure **ROM** development and best practices, bootstrapping sec
 
 ## **💼 Experience**
 
-### **Firmware Architect** _(2022 – 2024)_
+### Intel - **Firmware Architect** _(2022 – 2024)_
 
 - **Architected** parts of bootstrap flow, optimizing for functionality, security, and efficiency.
 - System-wide strategic **technical leadership**, defining and implementing:
@@ -21,20 +21,20 @@ Specializing in secure **ROM** development and best practices, bootstrapping sec
   - Branching strategies, CI/CD pipeline architecture, and Release management processes
 - Authored and maintained comprehensive **technical** and **architectural documentation**.
 
-### **Senior Firmware Engineer** _(2019 – 2022)_
+### Intel - **Senior Firmware Engineer** _(2019 – 2022)_
 
 - Developing and enhancing **secure firmware** for **ROM**.
 - Served as **Security Champion**, leading security-focused code reviews, threat modeling, and secure development practices.
 - Developed **embedded drivers** for peripherals including **SPI** and **UFS**.
 - Designed, developed, and implemented an **E2E automation solution** for firmware validation team.
 
-### **Firmware Engineer** _(2013 – 2019)_
+### Intel - **Firmware Engineer** _(2013 – 2019)_
 
 - **Developed firmware in C** for embedded security engines, encompassing both **Kernel** and **ROM** components.
 - Performed extensive **firmware debugging** on **pre-silicon** and **post-silicon** platforms (Simulations, **FPGAs**, Silicon).
 - Engineered and implemented a comprehensive **unit testing infrastructure (BAT)**, used by the firmware development teams.
 
-### **Firmware Developer - Student Position** _(2012 – 2013)_
+### Intel - **Firmware Developer - Student Position** _(2012 – 2013)_
 
 - Contributed to the development of an **Embedded OS Kernel.**
 
