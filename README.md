@@ -8,18 +8,23 @@
 ## **About**
 
 Experienced Firmware Engineer and Architect of **Embedded security engines**,
-designing and writing secure modular and efficient code solutions.<br/>
-Specializing in secure **ROM** development and best practices, bootstrapping secure embedded engines, using pre and post silicon vehicles
+designing and writing secure modular and efficient code in C.<br/>
+Specializing in **ROM** development with tight HW coupling.<br/>
+Got experience with the entire development stack: architecture, build system,
+implementation, code review, unit testing, CI / CD, automation, validation,
+debugging HW and documentation
 
 ## **💼 Experience**
 
 ### Intel - **Firmware Architect** _(2022 – 2024)_
 
-- **Architected** parts of bootstrap flow, optimizing for functionality, security, and efficiency.
-- System-wide strategic **technical leadership**, defining and implementing:
-  - Code structure, modular designs, coding standards and best practices
-  - Branching strategies, CI/CD pipeline architecture, and Release management processes
-- Authored and maintained comprehensive **technical** and **architectural documentation**.
+- **Architected** and implemented parts of a bootstrap flow, optimizing for
+  functionality, security, and efficiency.
+- System-wide strategic **technical leadership** and code maintainer, defining
+  and implementing code structure, modular designs, coding standards and
+  best practices, branching strategies, CI/CD pipeline , and release
+  management processes
+- Authored and maintained comprehensive technical and **architectural documentation**.
 
 ### Intel - **Senior Firmware Engineer** _(2019 – 2022)_
 
